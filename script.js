@@ -118,7 +118,7 @@ const CERTS = [
   { title:'SAP Advance Course', provider:'Edunet', year:'2025', file:'Vraj SAP Certificate.pdf' },
   { title:'Programming in Java', provider:'NPTEL', year:'2025', file:'Programming In Java.pdf' },
   { title:'Full Stack Web Development', provider:'Apna College', year:'2024', file:'Delta Full Stack Development.pdf' },
-  { title:'The Complete Python Pro Bootcamp', provider:'Udemy', year:'2024', file:'Python_Pro_Bootcamp.pdf', unavailable:true },
+  { title:'100 Days of Code: The Complete Python Pro Bootcamp', provider:'Udemy', year:'2026', file:'Python 100 Days BootCamp.pdf' },
   { title:'C++ Course: Learn the Essentials', provider:'Scaler Topics', year:'2024', file:'Cpp_Essentials.pdf' },
   { title:'Introduction to Industry 4.0 and Industrial IoT (IIoT)', provider:'NPTEL', year:'2026', file:'IIoT.pdf' }
 ];
